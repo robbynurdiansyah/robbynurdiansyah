@@ -4,7 +4,16 @@ Perkenalkan nama saya **Robby Bambang Nurdiansyah**.<br>
  
 Saya seorang **Programmer** di [Rumah Sakit Mata Cicendo Bandung](https://www.cicendoeyehospital.org/).<br>
  
-Saya bertanggung jawab pada beberapa aplikasi utama Rumah Sakit dan aplikasi pendukung Rumah Sakit.<br>
+Saya bertanggung jawab pada beberapa aplikasi utama Rumah Sakit yaitu :
+- **Sistem Informasi Rumah Sakit (SIMRS)**
+- **Electronic Medical Record (EMR)**
+- **Sistem Informasi Manajemen Anggaran (SIMANGGAR)**
+<br>
+
+Juga beberapa aplikasi pendukung operasional Rumah sakit yaitu :
+- **Sistem Informasi Risk Register Terintegrasi (SIMASTER)**
+- **Integrasi Satu Sehat Kemenkes**
+<br>
  
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/nurdiansyahrobby/)ku ya.
  
