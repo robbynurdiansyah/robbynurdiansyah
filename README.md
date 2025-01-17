@@ -1,14 +1,12 @@
 # Halo semua! 
  
-Perkenalkan nama saya **Gilang Ramadhan**.<br>
+Perkenalkan nama saya **Robby Bambang Nurdiansyah**.<br>
  
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).<br>
+Saya seorang **Programmer** di [Rumah Sakit Mata Cicendo Bandung](https://www.cicendoeyehospital.org/).<br>
  
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).<br>
+Saya bertanggung jawab pada beberapa aplikasi utama Rumah Sakit dan aplikasi pendukung Rumah Sakit.<br>
  
-Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
- 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gilang-adhan/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/nurdiansyahrobby/)ku ya.
  
 ### Github Statistic
 <p align="left">
