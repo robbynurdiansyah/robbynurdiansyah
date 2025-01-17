@@ -15,7 +15,7 @@ Juga beberapa aplikasi pendukung operasional Rumah sakit yaitu :
 - **Integrasi Satu Sehat Kemenkes**
 <br>
  
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/nurdiansyahrobby/)ku ya.
+Silakan ikuti akun [Linkedin](https://www.linkedin.com/in/nurdiansyahrobby/) saya.
  
 ### Github Statistic
 <p align="left">
