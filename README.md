@@ -62,7 +62,7 @@ If you're looking for a detail-oriented tester with a developer’s perspective 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/nurdiansyahrobby/)  
 - 💻 [GitHub](https://github.com/robbynurdiansyah)  
-- 📬 [Gmail] (robbynurdiansyah24@gmail.com)
+- 📬 [Gmail](mailto:robbynurdiansyah24@gmail.com)
 
 ---
 
