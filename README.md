@@ -8,6 +8,7 @@ I’m responsible for several core applications at Cicendo Eye Hospital, includi
 
 - **Hospital Information System**
 - **Electronic Medical Record (EMR)**
+- **Human Resources Information System (SIMPEG)**
 - **Budget Management Information System (SIMANGGAR)**
 
 I also manage supporting operational applications, such as:
