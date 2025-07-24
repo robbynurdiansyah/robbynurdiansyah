@@ -1,26 +1,30 @@
-# Halo semua! 
- 
-Perkenalkan nama saya **Robby Bambang Nurdiansyah**.<br>
- 
-Saya seorang **Programmer** di [Rumah Sakit Mata Cicendo Bandung](https://www.cicendoeyehospital.org/).<br>
- 
-Saya bertanggung jawab pada beberapa aplikasi utama Rumah Sakit yaitu :
-- **Sistem Informasi Rumah Sakit (SIMRS)**
-- **Electronic Medical Record (EMR)**
-- **Sistem Informasi Manajemen Anggaran (SIMANGGAR)**
-<br>
+# Hello everyone! 👋
 
-Juga beberapa aplikasi pendukung operasional Rumah sakit yaitu :
-- **Sistem Informasi Risk Register Terintegrasi (SIMASTER)**
-- **Integrasi Satu Sehat Kemenkes**
-<br>
- 
-Silakan ikuti akun [Linkedin](https://www.linkedin.com/in/nurdiansyahrobby/) saya.
- 
-### Github Statistic
+My name is **Robby Bambang Nurdiansyah**.
+
+I’m a **Programmer** at [Cicendo Eye Hospital](https://www.rsmatacicendo.go.id/).
+
+I’m responsible for several core applications at Cicendo Eye Hospital, including:
+
+- **Hospital Information System**
+- **Electronic Medical Record (EMR)**
+- **Budget Management Information System (SIMANGGAR)**
+
+I also manage supporting operational applications, such as:
+
+- **Integrated Risk Register Information System (SIMASTER)**
+- **SATU SEHAT Integration System**
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nurdiansyahrobby/).
+
+---
+
+### 📊 GitHub Statistics
+
 <p align="left">
 <a href="https://github.com/penuliscode">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=robbynurdiansyah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=robbynurdiansyah&layout=compact&layout=compact&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=robbynurdiansyah&layout=compact&theme=algolia"/>
 </a>
 </p>
+
