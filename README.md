@@ -16,9 +16,9 @@ While I continue working full-time as a **Programmer** at [Cicendo Eye Hospital]
 
 ## 🧪 Manual QA Skills
 
-- Manual testing for web-based systems and internal applications  
+- Manual testing for web-based systems and internal applications
 - Functional and regression testing  
-- Writing test cases and checklists (Google Sheets, TestLink)  
+- Writing test cases and checklists (Google Sheets, Notion, Trello, Github Project)  
 - API testing using Postman  
 - Clear bug reporting and collaboration with developers  
 - Familiar with SDLC and Agile methodologies
@@ -27,9 +27,11 @@ While I continue working full-time as a **Programmer** at [Cicendo Eye Hospital]
 
 ## 🧰 Tech Stack & Tools
 
-- **Programming:** PHP (Native, Codeigniter, Laravel), SQL (MySQL, PostgreSQL), JavaScript (Native, Jquery, Node JS)  
-- **QA Tools:** Postman, Trello, TestLink (basic), Excel/Sheets  
-- **Versioning:** Git, GitHub, Gitlab  
+- **Programming:** PHP (Native, Codeigniter, Laravel), JavaScript (Native, Jquery, Node JS, ExtJS), HTML
+- **Databases:** MySQL, PostgreSQL, MongoDB (basic)
+- **QA Tools:** Postman, Google Sheets
+- **Project Managements:** Notion, Trello, ITop, Redmine, Mantis
+- **Versioning:** Git, GitHub, Gitlab, Subversion (SVN) 
 - **Other:** REST API, System Documentation, Linux CLI (basic)
 
 ---
