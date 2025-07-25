@@ -29,8 +29,8 @@ While I continue working full-time as a **Programmer** at [Cicendo Eye Hospital]
 
 - **Programming:** PHP (Native, Codeigniter, Laravel), JavaScript (Native, Jquery, Node JS, ExtJS), HTML
 - **Databases:** MySQL, PostgreSQL, MongoDB (basic)
-- **QA Tools:** Postman, Google Sheets
-- **Project Managements:** Notion, Trello, ITop, Redmine, Mantis
+- **QA Tools:** Postman, Google Sheets, Mantis Bug Tracker
+- **Project Managements:** Notion, Trello, ITop, Redmine
 - **Versioning:** Git, GitHub, Gitlab, Subversion (SVN) 
 - **Other:** REST API, System Documentation, Linux CLI (basic)
 
