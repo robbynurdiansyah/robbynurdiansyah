@@ -71,7 +71,7 @@ If you're looking for a detail-oriented tester with a developer’s perspective 
 ## 📊 GitHub Stats
 
 <p align="left">
-<a href="https://github.com/penuliscode">
+<a href="https://github.com/robbynurdiansyah">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=robbynurdiansyah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=robbynurdiansyah&layout=compact&theme=algolia"/>
 </a>
