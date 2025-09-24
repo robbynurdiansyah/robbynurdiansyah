@@ -51,10 +51,17 @@ While I continue working full-time as a **Programmer** at [Cicendo Eye Hospital]
 
 I’m currently looking for **remote, part-time opportunities** in:
 
-- Manual QA Testing (Web/API)  
-- Functional Testing for SaaS or internal tools  
-- Writing and reviewing test cases  
-- Collaborating with remote dev teams on product quality
+- 💻 **Software Development**
+  - Backend development with PHP / Laravel / Codeigniter / Node JS  
+  - Building and integrating REST APIs with JWT authentication  
+  - Database design and optimization (MySQL, PostgreSQL)  
+  - Developing web applications with HTML, CSS, JavaScript, and jQuery
+    
+- 🧪 **QA / Testing**
+  - Manual QA Testing (Web/API)  
+  - Functional Testing for SaaS or internal tools  
+  - Writing and reviewing test cases  
+  - Collaborating with remote dev teams on product quality    
 
 If you're looking for a detail-oriented tester with a developer’s perspective — let’s talk!
 
