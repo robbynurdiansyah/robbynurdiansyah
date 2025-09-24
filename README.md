@@ -16,12 +16,12 @@ While I continue working full-time as a **Programmer** at [Cicendo Eye Hospital]
 
 ## 💻 Programming Skills
 
-- 🐘 PHP (Native, Laravel, CodeIgniter)  
-- 🌐 HTML5, CSS3, JavaScript (jQuery, Node JS, Bootstrap)  
-- 🗄️ MySQL, PostgreSQL (database design & query optimization)  
-- 🔐 JWT Authentication & API Integration  
-- 🧰 Git, Gitlab & GitHub (branching, pull request, version control)  
-- ⚡ REST API development & testing with Postman  
+- PHP (Native, Laravel, CodeIgniter)  
+- HTML5, CSS3, JavaScript (jQuery, Node JS, Bootstrap)  
+- MySQL, PostgreSQL (database design & query optimization)  
+- JWT Authentication & API Integration  
+- Git, Gitlab & GitHub (branching, pull request, version control)  
+- REST API development & testing with Postman  
 
 ---
 
